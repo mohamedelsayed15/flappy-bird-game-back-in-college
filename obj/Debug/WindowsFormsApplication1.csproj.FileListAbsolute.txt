@@ -1,0 +1,9 @@
+B:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+B:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.gametimer.resources
+B:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+B:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+B:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\flappy bird.exe.config
+B:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\flappy bird.exe
+B:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\flappy bird.pdb
+B:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\flappy bird.exe
+B:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\flappy bird.pdb
